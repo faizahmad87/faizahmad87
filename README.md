@@ -4,7 +4,7 @@
 
 🎓 BTech in Biotechnology from **NIT Jalandhar**  
 💻 **Software Engineer Intern at Chainscore Labs**  
-👨‍💻 **Frontend Developer Intern (8 months) at AdFlipr**  
+👨‍💻 **Frontend Developer Intern (7 months) at AdFlipr (currently part-time contributor)**  
 🔬 **Bioinformatics researcher** with expertise in DNA methylation analysis  
 
 ---
@@ -45,7 +45,7 @@
 - Handling **bytecode execution** for Web3 Foundation compliance  
 - Contributing to **blockchain infrastructure development**  
 
-### 🔹 **AdFlipr (Aug 2023 - Dec 2023)**  
+### 🔹 **AdFlipr (June 2024 - Dec 2024)**  
 - Designed & implemented **frontend components in React & TypeScript**  
 - Created **reusable UI elements** (forms, modals, drawers)  
 - Integrated APIs & **managed state using Redux**  
