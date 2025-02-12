@@ -40,7 +40,7 @@
 
 ## 🏆 Experience  
 
-### 🔹 **Chainscore Labs (Jan 2024 - Present)**  
+### 🔹 **Chainscore Labs (Jan 2025 - Present)**  
 - Working on **JAM Project (Polkadot Virtual Machine Implementation)**  
 - Handling **bytecode execution** for Web3 Foundation compliance  
 - Contributing to **blockchain infrastructure development**  
@@ -55,8 +55,8 @@
 
 ## 📌 Featured Projects  
 
-🔹 **[Calendar App - React & Node.js](https://github.com/yourrepo)** *(Full-Stack Event Management App)*  
-🔹 **[Methylation Analysis Workflow](https://github.com/yourrepo)** *(Bioinformatics & Data Science)*  
+🔹 **[Calendar App - React & Node.js](https://github.com/faizahmad87/Calendar)** *(Full-Stack Event Management App)*  
+🔹 **[Ecommerce Website](https://github.com/faizahmad87/Online-store)** *(Full-Stack with stripe api implementation)*  
 
 📌 **Check out my repositories:** [GitHub Repositories](https://github.com/faizahmad87)  
 
