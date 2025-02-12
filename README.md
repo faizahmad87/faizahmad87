@@ -55,6 +55,7 @@
 
 ## 📌 Featured Projects  
 
+🔹 **[Job portal App (for recruiter) - React & Node.js](https://github.com/faizahmad87/job-portal-new)** *(Full-Stack responsive website)*  
 🔹 **[Calendar App - React & Node.js](https://github.com/faizahmad87/Calendar)** *(Full-Stack Event Management App)*  
 🔹 **[Ecommerce Website](https://github.com/faizahmad87/Online-store)** *(Full-Stack with stripe api implementation)*  
 
