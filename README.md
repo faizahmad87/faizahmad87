@@ -64,7 +64,7 @@
 
 ## 📫 Connect With Me  
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/faiz-ahmad-6a402824a](https://www.linkedin.com/in/faiz-ahmad-6a402824a)**  
+💼 **LinkedIn:** [https://www.linkedin.com/in/faiz-ahmad-6a402824a](https://www.linkedin.com/in/faiz-ahmad-6a402824a) 
 📧 **Email:** faizahmad9608013206@gmail.com  
 🌐 **Portfolio:** [https://devfolio.co/@Faiz871](https://devfolio.co/@Faiz871) 
 
