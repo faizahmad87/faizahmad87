@@ -58,13 +58,13 @@
 🔹 **[Calendar App - React & Node.js](https://github.com/faizahmad87/Calendar)** *(Full-Stack Event Management App)*  
 🔹 **[Ecommerce Website](https://github.com/faizahmad87/Online-store)** *(Full-Stack with stripe api implementation)*  
 
-📌 **Check out my repositories:** [GitHub Repositories](https://github.com/faizahmad87)  
+📌 **Check out my repositories:** [GitHub Repositories](https://github.com/faizahmad87?tab=repositories)  
 
 ---
 
 ## 📫 Connect With Me  
 
-💼 **[LinkedIn](https://www.linkedin.com/in/faiz-ahmad-6a402824a)**  
+💼 **LinkedIn:** [https://www.linkedin.com/in/faiz-ahmad-6a402824a](https://www.linkedin.com/in/faiz-ahmad-6a402824a)**  
 📧 **Email:** faizahmad9608013206@gmail.com  
 🌐 **Portfolio:** [https://devfolio.co/@Faiz871](https://devfolio.co/@Faiz871) 
 
