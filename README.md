@@ -6,7 +6,9 @@
 💻 **Product Engineer at Toflow (Multi-channel sales & enrichment platform)**  
 👨‍💻 Former **Software Engineer Intern at Chainscore Labs**  
 🌐 Ex-Frontend Intern at AdFlipr  
-🔬 Bioinformatics Research Intern (IIT Mandi) — Analyzed DNA methylation patterns (CpG sites) using Python & Galaxy
+
+🔬 Bioinformatics Research Intern (IIT Mandi) — Analyzed DNA methylation patterns (CpG sites) using Python & Galaxy  
+
 ---
 
 ## 🛠 Tech Stack  
@@ -28,9 +30,9 @@
 - Scalable backend architecture & schema design  
 
 ### 🤖 AI & Automation  
-- MCP Server (AI agent communication, orchestration layer)
+- MCP Server (AI agent communication, orchestration layer)  
 - n8n (workflow automation)  
-- LangGraph, CopilotKit 
+- LangGraph, CopilotKit  
 - AI agents (multi-step reasoning, tool calling)  
 
 ### 🔗 Web3  
@@ -48,16 +50,17 @@
 - Implemented workflow automation using **n8n** for event-driven processes  
 - Built and integrated an **MCP server** to enable scalable AI-agent communication & tool orchestration  
 - Improved system performance, API efficiency & platform scalability  
+
 ---
 
-### 🔹 Software Engineer Intern — Chainscore Labs (Jan 2025 - June 2025)
+### 🔹 Software Engineer Intern — Chainscore Labs (Jan 2025 - June 2025)  
 - Worked on **JAM Project (Polkadot Virtual Machine)**  
 - Implemented **bytecode execution system in Python**  
 - Ensured compliance with **Web3 Foundation standards**  
 
 ---
 
-### 🔹 Frontend Developer Intern — AdFlipr  (June 2024 - Dec 2024)
+### 🔹 Frontend Developer Intern — AdFlipr  (June 2024 - Dec 2024)  
 - Built **production-ready UI components** using React & TypeScript  
 - Integrated **60+ APIs** for dynamic applications  
 - Developed **automation workflows using ReactFlow**  
