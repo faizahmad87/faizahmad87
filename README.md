@@ -1,74 +1,97 @@
 # 👋 Hi, I'm Faiz Ahmad!  
 
-🚀 **Full-Stack Developer | Bioinformatics Enthusiast | Web3 Learner**  
+🚀 **Product Engineer | Full-Stack Developer | AI Enthusiast**  
 
 🎓 BTech in Biotechnology from **NIT Jalandhar**  
-💻 **Software Engineer Intern at Chainscore Labs**  
-👨‍💻 **Frontend Developer Intern (7 months) at AdFlipr (currently part-time contributor)**  
-🔬 **Bioinformatics researcher** with expertise in DNA methylation analysis  
-
+💻 **Product Engineer at Toflow (Multi-channel sales & enrichment platform)**  
+👨‍💻 Former **Software Engineer Intern at Chainscore Labs**  
+🌐 Ex-Frontend Intern at AdFlipr  
+🔬 Bioinformatics Research Intern (IIT Mandi) — Analyzed DNA methylation patterns (CpG sites) using Python & Galaxy
 ---
 
 ## 🛠 Tech Stack  
 
-### **🚀 Programming Languages:**  
-- **JavaScript / TypeScript** (React, Next.js, Node.js)  
-- **C / C++** (DSA, Competitive Programming)  
-- **Python** (Scripting, Bioinformatics)  
-- **SQL** (PostgreSQL, MySQL)  
+### 🚀 Programming  
+- JavaScript / TypeScript (React, Next.js, Node.js)  
+- Python (FastAPI, AI workflows, Bioinformatics)  
+- C / C++ (DSA, Competitive Programming)  
+- SQL (PostgreSQL, MySQL)  
 
-### **💻 Frontend:**  
-- **React.js, Next.js, Redux, Tailwind CSS, MUI**  
-- **UI/UX Implementation based on Figma Designs**  
-- **API Integration & State Management (Redux / Recoil)**  
+### 💻 Frontend  
+- React.js, Next.js, Redux, Recoil, Tailwind CSS, MUI  
+- Scalable UI systems from Figma  
+- Complex state & API integration  
 
-### **🛠 Backend:**  
-- **Node.js, Express.js**  
-- **Database Management (PostgreSQL, MySQL, MongoDB)**  
-- **Authentication (JWT, OAuth)**  
+### 🛠 Backend & Systems  
+- Node.js, Express.js, FastAPI  
+- REST APIs, Authentication (JWT, OAuth)  
+- Scalable backend architecture & schema design  
 
-### **🔗 Web3 & Blockchain:**  
-- **Polkadot Virtual Machine (PVM) Implementation**  
-- **Smart Contract Development Basics**  
+### 🤖 AI & Automation  
+- MCP Server (AI agent communication, orchestration layer)
+- n8n (workflow automation)  
+- LangGraph, CopilotKit 
+- AI agents (multi-step reasoning, tool calling)  
 
-### **📊 Database & Systems Knowledge:**  
-- **DBMS Concepts (Normalization, Indexing, Transactions, ACID)**  
-- **SQL Query Optimization & Stored Procedures**  
-- **NoSQL (MongoDB, Firebase Firestore)**  
+### 🔗 Web3  
+- Polkadot Virtual Machine (PVM)  
+- Blockchain fundamentals & smart contracts  
 
 ---
 
 ## 🏆 Experience  
 
-### 🔹 **Chainscore Labs (Jan 2025 - Present)**  
-- Working on **JAM Project (Polkadot Virtual Machine Implementation)**  
-- Handling **bytecode execution** for Web3 Foundation compliance  
-- Contributing to **blockchain infrastructure development**  
+### 🔹 Product Engineer — Toflow (Aug 2025 – Present)  
+- Built full-stack product features using Next.js, React, TypeScript & FastAPI  
+- Developed an AI-powered email writing agent using CopilotKit + LangGraph  
+- Designed dynamic CRM backend architecture (custom fields, validation, schema handling)  
+- Implemented workflow automation using **n8n** for event-driven processes  
+- Built and integrated an **MCP server** to enable scalable AI-agent communication & tool orchestration  
+- Improved system performance, API efficiency & platform scalability  
+---
 
-### 🔹 **AdFlipr (June 2024 - Dec 2024)**  
-- Designed & implemented **frontend components in React & TypeScript**  
-- Created **reusable UI elements** (forms, modals, drawers)  
-- Integrated APIs & **managed state using Redux**  
-- Built pages for **e-commerce analytics & automation tools**  
+### 🔹 Software Engineer Intern — Chainscore Labs (Jan 2025 - June 2025)
+- Worked on **JAM Project (Polkadot Virtual Machine)**  
+- Implemented **bytecode execution system in Python**  
+- Ensured compliance with **Web3 Foundation standards**  
+
+---
+
+### 🔹 Frontend Developer Intern — AdFlipr  (June 2024 - Dec 2024)
+- Built **production-ready UI components** using React & TypeScript  
+- Integrated **60+ APIs** for dynamic applications  
+- Developed **automation workflows using ReactFlow**  
+- Created reusable component systems (forms, modals, drawers)  
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 **[Job portal App (for recruiter) - React & Node.js](https://github.com/faizahmad87/job-portal-new)** *(Full-Stack responsive website)*  
-🔹 **[Calendar App - React & Node.js](https://github.com/faizahmad87/Calendar)** *(Full-Stack Event Management App)*  
-🔹 **[Ecommerce Website](https://github.com/faizahmad87/Online-store)** *(Full-Stack with stripe api implementation)*  
+🔹 **[Job Portal Platform](https://github.com/faizahmad87/job-portal-new)**  
+- Full-stack hiring system with admin dashboard  
+- Built using React + Node.js  
 
-📌 **Check out my repositories:** [GitHub Repositories](https://github.com/faizahmad87?tab=repositories)  
+🔹 **[E-commerce Platform](https://github.com/faizahmad87/Online-store)**  
+- Full-stack app with **Stripe integration**  
+
+🔹 **[Calendar App](https://github.com/faizahmad87/Calendar)**  
+- Event management system with full-stack architecture  
+
+---
+
+## 📊 Achievements  
+
+🏆 AIR 35 — GATE 2024  
+🥇 Rank 1 in Biotechnology batch (multiple semesters)  
 
 ---
 
 ## 📫 Connect With Me  
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/faiz-ahmad-6a402824a](https://www.linkedin.com/in/faiz-ahmad-6a402824a)                                             
-📧 **Email:** faizahmad9608013206@gmail.com  
-🌐 **Portfolio:** [https://devfolio.co/@Faiz871](https://devfolio.co/@Faiz871) 
+💼 LinkedIn: https://www.linkedin.com/in/faiz-ahmad-6a402824a  
+📧 Email: faiz.github@gmail.com  
+🌐 Portfolio: https://devfolio.co/@Faiz871  
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!** 🚀  
+⭐ Feel free to explore my repositories and connect!
